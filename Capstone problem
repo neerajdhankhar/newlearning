@@ -1,0 +1,8 @@
+                                Capstone Project - Opening a new Pizza Place in Downtown, Toronto
+
+
+Business Problem
+A group of investors in Iowa is looking to open a new restaurant. The investors want to ensure that the new venture is one that is unique to the neighbourhood where they plan to open, Downtown Toronto. In order to determine what type of restaurant to open, the investors need an analysis of the current venues operating in the target neighbourhood so that they do not open a restaurant similar to ones already in existence. The target audience for the report is the investor group; they need this analysis to give the restaurant they are opening the best chance to survive in a competitive industry. Additionally, the neighbourhood in which the restaurant is going to be opened in is anxious to see what the new venue will be.
+
+Data Section
+The data needed for this project is an analysis of the current restaurant types operating in the city of Toronto. These venues will be grouped by category and distance from the target location of the building the investors are interested in purchasing for their new venue. This data will be mined from FourSquare venue category information to cluster the similar restaurant types within the Downtown area and used to make a decision on the restaurant type for the investors to open, so that it is a unique venue.
